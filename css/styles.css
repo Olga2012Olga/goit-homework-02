@@ -59,7 +59,7 @@ ul {
   color: #fff;
   background-color: #4d5ae5;
   cursor: pointer;
-  font-size: 16
+  font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -150,8 +150,8 @@ ul {
   letter-spacing: 0.02em;
 }
 .our-team {
-  color: #2e2f42;
-  text-align: center;
+  background-color: #F4F4FD
+ 
 
   /* Header 2 */
   font-size: 36px;
@@ -159,6 +159,12 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+}
+.our-team-list {
+  background-color:  #FFFFFF;
+}
+.our-team-list-items {
+  background-color:  #FFFFFF;
 }
 .title-our-team {
   background-color: #f4f4fd;
