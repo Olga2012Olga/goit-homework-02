@@ -68,7 +68,7 @@ ul {
 .start-button-:hover,
 .start-button-:focus {
   color: #404bbf;
-  background-color: #4d5ae5;
+  background-color: #404BBF;
 }
 .strategy {
   color: #2e2f42;
@@ -82,32 +82,36 @@ ul {
   letter-spacing: 0.02em;
 }
 .text-strategy {
-  color: #434455;
-  font-family: Roboto, sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
+  color: #2e2f42;
+
+  /* Header 3 */
+
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .punctuality {
   color: #2e2f42;
 
   /* Header 3 */
-  font-family: Roboto, sans-serif;
+
   font-size: 20px;
+
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .text-punctuality {
-  color: #434455;
+  color: #2e2f42;
 
-  /* Body */
-  font-family: Roboto, sans-serif;
-  font-size: 16px;
+  /* Header 3 */
 
-  font-weight: 400;
-  line-height: 1.5;
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .diligence {
@@ -116,17 +120,20 @@ ul {
   /* Header 3 */
 
   font-size: 20px;
+
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .text-diligence {
-  color: #434455;
+  color: #2e2f42;
 
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
+  /* Header 3 */
+
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .technologies {
@@ -152,6 +159,15 @@ ul {
 }
 .our-team {
   background-color: #f4f4fd;
+  color:  #2E2F42;
+text-align: center;
+
+/* Header 2 */
+font-size: 36px;
+font-weight: 700;
+line-height: 1.1;
+letter-spacing: 0.02em;
+text-transform: capitalize;
 }
 .our-team-list {
   background-color: #ffffff;
@@ -264,13 +280,31 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
+.text-app {
+  color:  #434455;
+
+/* Body */
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+.cashless-payment {
+  color:  #2E2F42;
+
+/* Header 3 */
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
 .dark-bg {
   background-color: #2e2f42;
 }
 
 .footer-logo {
   color: #4d5ae5;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -280,7 +314,7 @@ ul {
 }
 .footer-logo-part {
   color: #f4f4fd;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -291,7 +325,7 @@ ul {
   color: #f4f4fd;
 
   /* Body */
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
