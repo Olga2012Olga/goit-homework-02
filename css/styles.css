@@ -1,0 +1,278 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+.header-logo {
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.header-logo-part {
+  color: #2e2f42;
+}
+.header-nav-link {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.header-nav-link:hover,
+.header-nav-link:focus {
+  color: #404bbf;
+}
+.contacts {
+  font-style: normal;
+}
+.header-contact-link {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.header-contact-link:hover,
+.header-contact-link:focus {
+  color: #404bbf;
+}
+.title {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  background-color: #2e2f42;
+}
+.start-button {
+  color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+  font-size: 16
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+.start-button-:hover,
+.start-button-:focus {
+  color: #fff;
+  background-color: #4d5ae5;
+}
+.strategy {
+  color: #2e2f42;
+
+  /* Header 3 */
+
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text-strategy {
+  color: #434455;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.punctuality {
+  color: #2e2f42;
+
+  /* Header 3 */
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text-punctuality {
+  color: #434455;
+
+  /* Body */
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.diligence {
+  color: #2e2f42;
+
+  /* Header 3 */
+
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text-diligence {
+  color: #434455;
+
+  /* Body */
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.technologies {
+  color: #2e2f42;
+
+  /* Header 3 */
+
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text-technologies {
+  color: #434455;
+
+  /* Body */
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.our-team {
+  color: #2e2f42;
+  text-align: center;
+
+  /* Header 2 */
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.title-our-team {
+  background-color: #f4f4fd;
+}
+.title-mark-guerrero {
+  color: #2e2f42;
+  text-align: center;
+
+  /* Header 3 */
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text-mark-guerrero {
+  color: #434455;
+  text-align: center;
+
+  /* Body */
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.title-tom-ford {
+  color: #2e2f42;
+  text-align: center;
+
+  /* Header 3 */
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text-tom-ford {
+  color: #434455;
+  text-align: center;
+
+  /* Body */
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.title-daniel-wilson {
+  color: #2e2f42;
+  text-align: center;
+
+  /* Header 3 */
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text-daniel-wilson {
+  color: #434455;
+  text-align: center;
+
+  /* Body */
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.title-camila-garcia {
+  color: #2e2f42;
+  text-align: center;
+
+  /* Header 3 */
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text-camila-garcia {
+  color: #434455;
+  text-align: center;
+
+  /* Body */
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.dark-bg {
+  background-color: #2e2f42;
+}
+.footer-logo {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  background-color: #2e2f42;
+}
+.footer-logo-part {
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.footer-text {
+  color: #f4f4fd;
+
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
