@@ -54,6 +54,7 @@ ul {
   font-weight: 700;
   line-height: 1.07;
   background-color: #2e2f42;
+  letter-spacing: 0.02em;
 }
 .start-button {
   color: #fff;
@@ -66,7 +67,7 @@ ul {
 }
 .start-button-:hover,
 .start-button-:focus {
-  color: #fff;
+  color: #404bbf;
   background-color: #4d5ae5;
 }
 .strategy {
@@ -150,14 +151,13 @@ ul {
   letter-spacing: 0.02em;
 }
 .our-team {
-  background-color: #F4F4FD
- 
+  background-color: #f4f4fd;
 }
 .our-team-list {
-  background-color:  #FFFFFF;
+  background-color: #ffffff;
 }
 .our-team-list-items {
-  background-color:  #FFFFFF;
+  background-color: #ffffff;
 }
 .title-our-team {
   background-color: #f4f4fd;
@@ -243,15 +243,37 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.title-portfolio {
+  color: #2e2f42;
+  text-align: center;
+
+  /* Header 2 */
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.our-portfolio-bankimg-app {
+  color: #2e2f42;
+
+  /* Header 3 */
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
 .dark-bg {
   background-color: #2e2f42;
 }
+
 .footer-logo {
   color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   background-color: #2e2f42;
@@ -261,7 +283,7 @@ ul {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -269,7 +291,7 @@ ul {
   color: #f4f4fd;
 
   /* Body */
-  font-family: Roboto;
+  font-family: Raleway;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
