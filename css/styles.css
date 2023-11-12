@@ -69,66 +69,15 @@ ul {
 .start-button-link:focus {
   background-color: #404bbf;
 }
-.strategy {
+.section-title {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.text-strategy {
-  color: #434455;
-  /* Body */
+.text-title {
   font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.punctuality {
-  color: #2e2f42;
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-punctuality {
-  color: #434455;
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.diligence {
-  color: #2e2f42;
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-diligence {
-  color: #434455;
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.technologies {
-  color: #2e2f42;
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-technologies {
-  color: #434455;
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
