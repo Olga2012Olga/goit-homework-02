@@ -73,12 +73,12 @@ ul {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .text-title {
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .our-team {
@@ -92,211 +92,29 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.title-our-team {
-  color: #2e2f42;
-  text-align: center;
-
-  /* Header 2 */
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-}
-.our-team-list {
-  background-color: #f4f4fd;
-}
 .our-team-list-items {
   background-color: #ffffff;
 }
-.title-our-team {
-  background-color: #f4f4fd;
-}
-.title-mark-guerrero {
+.app-name {
   color: #2e2f42;
-  text-align: center;
-
-  /* Header 3 */
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.text-mark-guerrero {
-  color: #434455;
-  text-align: center;
-
-  /* Body */
+.app-job {
   font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.title-tom-ford {
-  color: #2e2f42;
-  text-align: center;
-
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-tom-ford {
-  color: #434455;
-  text-align: center;
-
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.title-daniel-wilson {
-  color: #2e2f42;
-  text-align: center;
-
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-daniel-wilson {
-  color: #434455;
-  text-align: center;
-
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.title-camila-garcia {
-  color: #2e2f42;
-  text-align: center;
-
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-camila-garcia {
-  color: #434455;
-  text-align: center;
-
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .title-portfolio {
-  color: #2e2f42;
   text-align: center;
-
-  /* Header 2 */
+  color: #2e2f42;
   font-size: 36px;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-}
-
-.our-portfolio-bankimg-app {
-  color: #2e2f42;
-
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-title-banking-app {
-  color: #2e2f42;
-
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-marketing {
-}
-.text-app {
-  color: #434455;
-
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.our-portfolio-cashless-payment {
-  color:  #2E2F42;
-
-/* Header 3 */
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
-}
-.text-title-meditation {
-  color: #2e2f42;
-
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-marketing {
-  color: #434455;
-
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02;
-}
-.text-title-screen {
-  color: #2e2f42;
-
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-design {
-  color: #434455;
-
-  /* Body */
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.text-title-courses {
-  color: #2e2f42;
-
-  /* Header 3 */
-
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-courses {
-  color: #434455;
-
-  /* Body */
-
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 .dark-bg {
   background-color: #2e2f42;
