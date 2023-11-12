@@ -134,9 +134,11 @@ letter-spacing: 0.02em;
   letter-spacing: 0.02em;
 }
 .app-job {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  color:  #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02emx;
 }
 .title-portfolio {
   text-align: center;
