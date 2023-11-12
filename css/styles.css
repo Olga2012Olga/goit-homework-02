@@ -67,23 +67,17 @@ ul {
 }
 .start-button-link:hover,
 .start-button-link:focus {
-  
-  background-color:  #404BBF;
+  background-color: #404bbf;
 }
 .strategy {
   color: #2e2f42;
-
-  /* Header 3 */
-
   font-size: 20px;
-
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .text-strategy {
   color: #434455;
-
   /* Body */
   font-size: 16px;
   font-weight: 400;
@@ -92,18 +86,14 @@ ul {
 }
 .punctuality {
   color: #2e2f42;
-
   /* Header 3 */
-
   font-size: 20px;
-
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .text-punctuality {
   color: #434455;
-
   /* Body */
   font-size: 16px;
   font-weight: 400;
@@ -112,18 +102,14 @@ ul {
 }
 .diligence {
   color: #2e2f42;
-
   /* Header 3 */
-
   font-size: 20px;
-
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .text-diligence {
   color: #434455;
-
   /* Body */
   font-size: 16px;
   font-weight: 400;
@@ -132,20 +118,15 @@ ul {
 }
 .technologies {
   color: #2e2f42;
-
   /* Header 3 */
-
   font-size: 20px;
-
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .text-technologies {
   color: #434455;
-
   /* Body */
-
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -153,6 +134,16 @@ ul {
 }
 .our-team {
   background-color: #f4f4fd;
+  color: #2e2f42;
+  text-align: center;
+  /* Header 2 */
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.title-our-team {
   color: #2e2f42;
   text-align: center;
 
@@ -163,19 +154,8 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.title-our-team {
-  color:  #2E2F42;
-text-align: center;
-
-/* Header 2 */
-font-size: 36px;
-font-weight: 700;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-}
 .our-team-list {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 .our-team-list-items {
   background-color: #ffffff;
@@ -285,16 +265,15 @@ text-transform: capitalize;
   letter-spacing: 0.02em;
 }
 .text-title-banking-app {
-  color: #2E2F42;
+  color: #2e2f42;
 
-/* Header 3 */
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+  /* Header 3 */
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .text-marketing {
-  
 }
 .text-app {
   color: #434455;
@@ -305,16 +284,7 @@ letter-spacing: 0.02em;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.cashless-payment {
-  color: #2e2f42;
-
-  /* Header 3 */
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-title-meditation {
+.our-portfolio-cashless-payment {
   color:  #2E2F42;
 
 /* Header 3 */
@@ -322,6 +292,15 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
+}
+.text-title-meditation {
+  color: #2e2f42;
+
+  /* Header 3 */
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .text-marketing {
   color: #434455;
@@ -333,42 +312,42 @@ letter-spacing: 0.02em;
   letter-spacing: 0.02;
 }
 .text-title-screen {
-  color:  #2E2F42;
+  color: #2e2f42;
 
-/* Header 3 */
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+  /* Header 3 */
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .text-design {
   color: #434455;
 
-/* Body */
-font-size: 16px;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.02em;
+  /* Body */
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .text-title-courses {
-  color:  #2E2F42;
+  color: #2e2f42;
 
-/* Header 3 */
+  /* Header 3 */
 
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .text-courses {
   color: #434455;
 
-/* Body */
+  /* Body */
 
-font-size: 16px;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.02em;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .dark-bg {
   background-color: #2e2f42;
