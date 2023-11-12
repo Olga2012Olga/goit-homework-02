@@ -126,6 +126,15 @@ letter-spacing: 0.02em;
 .our-team-list-items {
   background-color: #ffffff;
 }
+.title-portfolio {
+  text-align: center;
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
 .app-name {
   color: #2e2f42;
   font-size: 20px;
@@ -140,15 +149,7 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02emx;
 }
-.title-portfolio {
-  text-align: center;
-  color: #2e2f42;
-  font-size: 36px;
-  font-weight: 500;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-}
+
 .dark-bg {
   background-color: #2e2f42;
 }
