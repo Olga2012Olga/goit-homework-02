@@ -284,6 +284,18 @@ text-transform: capitalize;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
+.text-title-banking-app {
+  color: #2E2F42;
+
+/* Header 3 */
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+.text-marketing {
+  
+}
 .text-app {
   color: #434455;
 
