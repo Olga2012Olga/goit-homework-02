@@ -64,11 +64,12 @@ ul {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-}
-.start-button-:hover,
-.start-button-:focus {
-  color: #404bbf;
   background-color: #404bbf;
+}
+.start-button-link:hover,
+.start-button-link:focus {
+  
+  background-color:  #4D5AE5;
 }
 .strategy {
   color: #2e2f42;
@@ -162,6 +163,17 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+}
+.title-our-team {
+  color:  #2E2F42;
+text-align: center;
+
+/* Header 2 */
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
 }
 .our-team-list {
   background-color: #F4F4FD;
@@ -290,6 +302,15 @@ ul {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+}
+.text-title-meditation {
+  color:  #2E2F42;
+
+/* Header 3 */
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
 }
 .text-marketing {
   color: #434455;
