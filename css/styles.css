@@ -73,7 +73,7 @@ ul {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .text-title {
@@ -81,16 +81,37 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
+.title-our-team {
+  text-align: center;
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
 .our-team {
   background-color: #f4f4fd;
   color: #2e2f42;
-  text-align: center;
+  
   /* Header 2 */
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+}
+.title-name {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text-name {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .our-team-list-items {
   background-color: #ffffff;
